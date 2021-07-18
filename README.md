@@ -4,4 +4,4 @@ Desáfio feito em 2021 para o hiring coders Vtex
 
 Landing page de uma página de loja virtual com tema de black friday, algumas promoções e cadastro de email para informações sobre a black.
 
-Hospedagem hiring-coders-vtex.vercel.app
+Site hospedado gratuitamente no site vercel [CasaGamer](https://hiring-coders-vtex.vercel.app/). 
