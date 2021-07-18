@@ -1,2 +1,1 @@
-# Hiring coders VTEX
- Códigos frontend e backend bootcamp hiring-coders 
+Desafio #1: Ecommerce - Como colocar uma loja online? Site Oficial / Landing page
