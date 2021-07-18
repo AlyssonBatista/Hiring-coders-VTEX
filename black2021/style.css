@@ -1,0 +1,221 @@
+header {
+  text-align:center;
+  padding: 20px 0px 0px 0px;
+}
+header img{
+  width: 230px;
+}
+body{
+  background: url(img/bg-stars.svg) no-repeat center fixed; 
+  background-size: cover;
+  background-color: #241E2C;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+
+  padding-bottom: 0px;
+  padding-right: 0px;
+  
+}
+.cadastro {
+  width: 315px;
+  height: 80px;
+  margin: 0 auto;
+}
+.contagem {
+  text-align:center;
+  padding: 20px 0px 0px 0px;
+  margin-left: 190px;
+  margin-bottom: 25px;
+}
+.numero {
+  min-width: 80px;
+  max-width: 100px;
+  background-color: #efefef;
+  color: #D35071;
+  font-size: 50px;
+  margin: 5px;
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px;
+  font-family: 'Roboto', sans-serif;
+}
+.legenda {
+  color: #D35071;
+  height: 25px;
+  line-height: 10px;
+  font-size: 25px;
+  text-align: center;
+  margin: 15px;
+  font-family: 'Roboto', sans-serif ;
+}
+
+.nome {
+   
+  border-style: none;
+  font-family: 'Roboto', sans-serif ;
+  width: 300px;
+  height: 31px;
+  float: left;
+  margin: 3px;
+  font-size: 16px;
+}
+.email {
+  border-style: none;
+  align-items: center;
+  width: 300px;
+  height: 31px;
+  margin: 3px;
+  margin-bottom: 10px;
+  float: left;
+  clear: both;
+  font-size: 16px;
+}
+.button {
+  width: 230px;
+  margin: 0 auto;
+}
+.button2 {
+  background-color:#D35071;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 19px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+ .conteiner3{
+   width: 800px;
+   margin: 0 auto;
+    
+ }
+
+/*=========================================================================*/
+
+
+.imag{
+  width: 1245px;
+  margin: 0 auto;
+}
+
+.container {
+  word-wrap: break-word;
+  margin: 5px;
+  position: relative;
+  width: 300px;
+  height: 300px;
+  float: left;
+}
+
+.container1 {
+  margin: 5px;
+  position: relative;
+  width: 300px;
+  height: 300px;
+  float: left;
+}
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 100%;
+  right: 0;
+  background: url(img/bg-stars.svg) no-repeat center fixed; 
+  background-color: #241e2c;
+  background-size: cover;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: 0.9s ease;
+}
+
+.container:hover .overlay {
+  width: 100%;
+  left: 0;
+}
+
+.container1:hover .overlay {
+  width: 100%;
+  left: 0;
+  
+}
+
+.text {
+  color: #D35071;
+  font-size: 27px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+}
+
+ h1 {
+  text-align:center;
+  padding: 20px 0px 0px 0px;
+  color: #D35071;
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif  ;
+ }
+h2 {
+  text-align:center;
+  padding: 20px 0px 0px 0px;
+  color: #D35071;
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif  ;
+}
+p{
+  color: #D35071;
+  font-size: 27px;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+.foo {
+  width: 1347px;
+  height: 320px;
+}
+footer {
+  width: auto;
+  height: 20px;
+}
+
+footer p{
+padding: 0px;
+margin: 0px ;
+}
+.name {
+  float: left;
+  padding: 2px;
+  font-size: 17px;
+}
+.redes{
+  width: 25px;
+  height: 25px;
+  padding: 2px;
+  padding-left: px;
+  margin: 0 auto;
+}
+ul {
+  margin: 0px;
+}
+
+.primeira{
+  padding: 50px;
+  float: left;
+  clear: both;
+  margin-bottom: 85px;
+}
+.segunda {
+  
+}
