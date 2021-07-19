@@ -1,6 +1,9 @@
 header {
   text-align:center;
   padding: 20px 0px 0px 0px;
+  width: auto;
+  height: 300px;
+  background-color: #d350715b;
 }
 header img{
   width: 230px;
