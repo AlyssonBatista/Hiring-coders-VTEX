@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\..\\Music\\FlipClock-0.7.7"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Hiring-coders-VTEX"
+	}
+}
