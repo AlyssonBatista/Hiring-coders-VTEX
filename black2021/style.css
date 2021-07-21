@@ -98,7 +98,12 @@ body{
 
 /*=========================================================================*/
 
-
+.texto2 {
+  width: 800px;
+   
+  margin: 10px;
+  padding: 10px;
+}
 .imag{
   width: 1245px;
   margin: 0 auto;
@@ -168,6 +173,7 @@ body{
   padding: 20px 0px 0px 0px;
   color: #D35071;
   font-size: 25px;
+  font-weight: bold;
   font-family: 'Roboto', sans-serif  ;
  }
 h2 {
@@ -194,8 +200,7 @@ footer {
 }
 
 footer p{
-padding: 0px;
-margin: 0px ;
+margin: 5px;
 }
 .name {
   float: left;
@@ -214,6 +219,12 @@ ul {
 }
 
 .primeira{
+  padding: 50px;
+  float: left;
+  clear: both;
+  margin-bottom: 85px;
+}
+.segunda{
   padding: 50px;
   float: left;
   clear: both;
