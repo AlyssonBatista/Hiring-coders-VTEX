@@ -235,11 +235,11 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar-track {
-  background: rgb(104, 103, 101);        /* color of the tracking area */
+  background: rgba(90, 90, 89, 0.315);        /* color of the tracking area */
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color:  #D35071;    /* color of the scroll thumb */
+  background-color:  #d350719d;    /* color of the scroll thumb */
   border-radius: 20px;       /* roundness of the scroll thumb */
-  border: 3px solid rgb(17, 17, 17);  /* creates padding around scroll thumb */
+  border: 3px solid #241e2c;  /* creates padding around scroll thumb */
 }
